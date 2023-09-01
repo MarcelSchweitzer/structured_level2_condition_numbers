@@ -3,6 +3,7 @@
 % some time
 
 addpath('toolboxes/jagger')
+addpath('aux_functions')
 addpath('main_algorithms')
 rng(1)
 
